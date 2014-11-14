@@ -1,0 +1,11 @@
+h1. MySQL Tools Addon
+
+*1.0.0* - 5.10.2012
+
+* hosted @ Github: "https://github.com/jdlx/mysql_tools":https://github.com/jdlx/mysql_tools
+* update Adminer lib: 3.6.1
+
+
+*0.1* - 19.07.2010
+
+* first release
